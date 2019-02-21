@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
 
-import './Project.css';
+import './Projects.css';
 
 class Projects extends Component {
     constructor(props) {
